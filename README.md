@@ -1,5 +1,8 @@
 <h1 align="center"> </🌼Beş>  </h1>
 <p align="center">
+ 
+ <h1>🌼 Profile Stats</h3>
+
  <a href="https://discord.com/users/852585772300107806" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/wmxmr4nrilw59lbetg2lvoec4" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -23,7 +26,7 @@
 <h3>🌼 Profile Stats</h3>
 <img src="https://komarev.com/ghpvc/?username=Bes-js&label=Ziyaretçi%20Sayısı&color=552b75" alt="Bes-js" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
-<h3>🌼 Social media</h3>
+<h3>🌼 Others</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/883579263461257236)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Bes-js)
