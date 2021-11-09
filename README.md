@@ -13,6 +13,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/709068655060582410.gif?size=96" />
+ <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/705705522522750988.png?size=96" />
 </br>
 
 <h2 align="center">Who İs Beş? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
