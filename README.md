@@ -26,7 +26,6 @@
 <h3>🌼 Profile Stats</h3>
 <img src="https://komarev.com/ghpvc/?username=Bes-js&label=Ziyaretçi%20Sayısı&color=552b75" alt="Bes-js" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
-<h3>🌼 Others</h3>
 
 <h1 align="center"> My Discord Account <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h1>
 
