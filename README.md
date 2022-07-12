@@ -29,7 +29,7 @@
 <h1 align="center"> My Discord Account <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585772300107806?hideDiscrim=true)](https://discord.com/users/852585772300107806)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/798615228728082462?hideDiscrim=true)](https://discord.com/users/798615228728082462)
 
 <h3 align="left">🌼 GitHub Stats:</h3>
 <p align="left">
