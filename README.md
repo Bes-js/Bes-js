@@ -3,7 +3,7 @@
  <a href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/berkntozdmr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://top.gg/bot/854463472318677022" target"blank_"><img src="https://top.gg/api/widget/854463472318677022.svg"></a>
   
  
@@ -20,7 +20,7 @@
 
 - Just Beş Nothing Else
 - 6 - 1 = Beş
-- If you come to Priv or something [Click Here](http://harikalardiyari.cf)
+
 
 <h3>🌼 Profile Stats</h3>
 <img src="https://komarev.com/ghpvc/?username=Bes-js&label=Ziyaretçi%20Sayısı&color=552b75" alt="Bes-js" />
