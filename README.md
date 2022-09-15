@@ -1,7 +1,7 @@
-<h1 align="center"> </🌼Beş>  </h1>
-<p align="center">
+<h1 align="center"> </🌼Beş>  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=435&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+Be%C5%9F%230005" alt="Beş Was Here" />
-
+</h1>
+<p align="center">
  <a href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
