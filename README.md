@@ -11,12 +11,12 @@
  
  ## Langauges I Know:
 
- <img align="center" alt="C#" width="26px" src="https://cdn.discordapp.com/emojis/991406121757720616.png?size=96" />
-<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="center" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
-<img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img align="center" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/705705522522750988.png?size=96" />
- <img align="center" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
+ <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/emojis/991406121757720616.png?size=96" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ <img align="left" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+ <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/705705522522750988.png?size=96" />
+ <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
 </br>
 
 <h2 align="center">Who İs Beş? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
