@@ -18,6 +18,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img align="left" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.discordapp.com/emojis/991406123489972284.png?size=128&quality=lossless" />
 </br>
 
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> Badges <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> </h2>
