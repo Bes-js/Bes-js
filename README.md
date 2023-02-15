@@ -8,9 +8,8 @@
   <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  
+ <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> Some İnformation About Me <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> </h2>
  
- ##  <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> Some İnformation About Me  <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px">
-
  <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> Langauges <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> </h2>
  
  <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/emojis/991406121757720616.png?size=96" />
