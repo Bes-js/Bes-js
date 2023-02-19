@@ -10,13 +10,14 @@
  
  <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> Some İnformation About Me <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> </h2>
  
- <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> Langauges <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> </h2>
+ <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> Langauges & Tools <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> </h2>
  
  <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/emojis/991406121757720616.png?size=96" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img align="left" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.discordapp.com/emojis/991406123489972284.png?size=128&quality=lossless" />
+ <img align="left" alt="MongoDB" width="35px" src="https://imgyukle.com/f/2023/02/19/QCWEtv.png" />
 </br>
 
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> Badges <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> </h2>
