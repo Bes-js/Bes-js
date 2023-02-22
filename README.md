@@ -16,7 +16,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img align="left" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML" width="26px" src="https://cdn.discordapp.com/emojis/991406123489972284.png?size=128&quality=lossless" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.discordapp.com/emojis/991406123489972284.png?size=128&quality=lossless" />
  <img align="left" alt="MongoDB" width="15px" src="https://cdn.discordapp.com/emojis/1024200016723714058.png?size=96" />
  <img align="left" alt="Yarn" width="30px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
  <img align="left" alt="ChartJS" width="34px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
