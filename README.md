@@ -45,8 +45,8 @@
 <h1 align="center"> My Discord Account's </h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true" align="center" />
- <img src="https://lanyard-profile-readme.vercel.app/api/798615228728082462?hideDiscrim=true" align="center" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+ <img src="https://lanyard-profile-readme.vercel.app/api/798615228728082462?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Beş#0005" align="center" />
  </h2>
 
 <h1 align="center"> Github Stat's </h1>
