@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Beş>  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=435&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+Be%C5%9F%230005" alt="Beş Was Here" />
+ <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Be%C5%9F%230005" alt="Beş Was Here" />
 </h1>
 <h2 align="center">Social Media's </h2>
 <p align="center">
