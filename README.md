@@ -40,7 +40,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:Bes-js">
+<img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
@@ -49,8 +49,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
- <img src="https://lanyard-profile-readme.vercel.app/api/798615228728082462?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Beş#0005" align="center" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+ <img src="https://lanyard-profile-readme.vercel.app/api/798615228728082462?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Beş#0005" align="center" />
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
