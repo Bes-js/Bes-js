@@ -32,7 +32,8 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
 <a href="https://supermassive.com.tr" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
-<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1084575647185248336.png?size=128&quality=lossless" /> </a>
+<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
+<a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
  </h2>
 </br>
 
