@@ -59,6 +59,8 @@
 <h2 align="center">
  <a href="https://discord.com/users/928259219038302258"><img  width="400px" src="https://luppufy-api.onrender.com/member/928259219038302258?border=f0f0f0"></a>
 <a href="https://discord.com/users/798615228728082462"><img  width="400px" src="https://luppufy-api.onrender.com/member/798615228728082462?border=f0f0f0"></a>
+<br> </br>
+<a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img width="850px" align="center" src="https://luppufy-api.onrender.com/spotify/798615228728082462"></a>
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
