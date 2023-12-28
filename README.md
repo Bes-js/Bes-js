@@ -31,20 +31,12 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
-<a href="https://supermassive.com.tr" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
+<a href="https://supmass.gg/" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
 <a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
 <a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
  </h2>
 </br>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00DCFF&repeat=false&background=69FF2000&center=true&vCenter=true&width=435&lines=Badge's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
- <img align="center" alt="Beş" width="40px" src="https://cdn.discordapp.com/emojis/963191315049353297.gif?size=128&quality=lossless" />
- </h2>
-</br>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
