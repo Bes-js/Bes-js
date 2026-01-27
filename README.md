@@ -1,62 +1,100 @@
-<h1 align="center"> </🌼Beş>  
- <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+fivesobes" alt="Beş Was Here" />
-</h1>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
-<p align="center">
- <a align="center" href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://top.gg/bot/854463472318677022"><img src="https://top.gg/api/widget/servers/854463472318677022.svg"></a>
-  <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br> </br>
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+<div align="center">
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=346679&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Beş" alt="Typing SVG" />
+</div>
 
+<div align="center" width="100%">
  
+### Software Developer
 
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
- <h2 align="center">
- <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
- </h2>
-  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
-  </h2>
+<samp>
+ Hi, I’m Berkant, a 21-year-old full-stack developer specializing in JavaScript and TypeScript. My stack includes Next.js, NestJS, React, Redis, Express, and ORMs. I’ve delivered numerous projects, secured paid work, and I’m currently building specialized apps and working at Hikie.
  
+ <br />
+ <br />
+
+</samp>
+
+<div align="center">
+ <a href="https://discord.com/users/928259219038302258" target"_blank">
+  <img width="13%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=flat&logo=discord&logoColor=white">
+ </a>
+  <a href="https://wa.me/message/IMGAXZOIP7ICI1" target"_blank">
+   <img width="16%" src="https://img.shields.io/badge/Whatsapp%20-000000.svg?&style=flat&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=d5446f23a05741cc" target"_blank">
+   <img width="13%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=flat&logo=spotify&logoColor=white">
+  </a>
+ <a href="https://www.instagram.com/_berknt/" target"_blank">
+  <img width="16%" src="https://img.shields.io/badge/Instagram%20-000000.svg?&style=flat&logo=instagram&logoColor=white">
+ </a>
+</div>
+
+<div align="center">
+<a href="https://buymeacoffee.com/beykant" target"_blank">
+  <img width="22%" src="https://img.shields.io/badge/Buy Me A Coffee%20-000000.svg?&style=flat&logo=buymeacoffee&logoColor=white">
+ </a>
+ <a href="https://www.linkedin.com/in/berkant-%C3%B6zdemir-092241263/" target"_blank">
+  <img width="10%" src="https://img.shields.io/badge/LinkedIn%20-000000.svg?&style=flat&logoColor=white">
+ </a>
+</div>
+
+<div align="center">
+
+<br />
+
+<img align="center" width="35%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
+
+<br />
+<br />
+<div align="center">
+<img width="40%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=300&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Details" alt="Typing SVG" />
+</div>
+
+
+<details>
+  <summary style="display: block;"></summary>
+<br />
+
+<div align="center">
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Langauge's+%26+Tool's" alt="Typing SVG" />
+ <br />
+<div align="center">
+<img width="65%" src="https://skillicons.dev/icons?i=js,ts,cs,swift,lua,html,css,nodejs,bun,express,nest,elysia,react,nextjs,angular,mysql,postgres,sqlite,mongo,redis,prisma,sequelize,rabbitmq,kafka,selenium,postman,graphql,aws,docker,electron,tailwind,regex,git,gitlab,npm,yarn&theme=dark&perline=12" alt="five">
+</div>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Github+Stat's" alt="Typing SVG" />
+<br />
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+ </div>
+
+</div>
  
-  <h2 align="center">
- <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
- <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
- <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
- </h2>
-</br>
+<br />
+<br />
+<br />
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
-<h2 align="center">
-<a href="https://supmass.gg/" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
-<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
-<a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
- </h2>
-</br>
+<div align="center">
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=My+Communities" alt="Typing SVG" />
+<br />
+   <div align="center">
+    <a href="https://discord.gg/luppux" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.weblutions.com/discord/invite/luppux/" alt="Luppux Development" />
+    </a>
+</div>
+ <div align="center">
+    <a href="https://discord.gg/css" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.weblutions.com/discord/invite/css/" alt="CSS" />
+    </a>
+</div>
 
+ </div>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
-
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
-
-<h2 align="center">
- <a href="https://discord.com/users/928259219038302258"><img  width="400px" src="https://lanyard.cnrad.dev/api/928259219038302258?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=FiveSoBes"></a>
-<a href="https://discord.com/users/798615228728082462"><img  width="400px" src="https://lanyard.cnrad.dev/api/798615228728082462?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
-<br> </br>
-<!-- <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=vwuht447wffml59xtfokakivv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
- </h2> -->
- <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://img.yalin.app/vwuht447wffml59xtfokakivv"></a>
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+<br />
+</div>
