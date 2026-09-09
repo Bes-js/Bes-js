@@ -7,7 +7,7 @@
 ### Software Developer
 
 <samp>
- Hi, I’m Berkant, a 21-year-old full-stack developer specializing in JavaScript and TypeScript. My stack includes Next.js, NestJS, React, Redis, Express, and ORMs. I’ve delivered numerous projects, secured paid work, and I’m currently building specialized apps and working at Hikie.
+ Hi, I’m Berkant, a 21-year-old full-stack developer specializing in JavaScript and TypeScript. My stack includes Next.js, NestJS, React, Redis, Express, and ORMs. I’ve delivered numerous projects, secured paid work.
  
  <br />
  <br />
